@@ -1,0 +1,16 @@
+span,td.MuiTableCell-root {
+    color: orangered;
+}
+
+.button-new.MuiButton-containedPrimary {
+    padding: 10px;
+    margin-bottom: 10px;
+    color: darkslategrey;
+    background-color: darkorange;
+}
+.button-new.MuiButton-containedPrimary span{
+    color: darkslategrey;
+}
+.button-new.MuiButton-containedPrimary:hover{
+    background-color: pink;
+}
